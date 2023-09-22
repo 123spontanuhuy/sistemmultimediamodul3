@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: black !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    margin-top: 20px; /* Atur margin atas sesuai kebutuhan Anda */
+}
+
+/* Atur tampilan kolom */
+.col-sm-6 {
+    border: 1px solid #ccc; /* Tambahkan garis batas untuk melihat batas kolom */
+    padding: 10px; /* Atur ruang dalam kolom sesuai kebutuhan Anda */
+}
